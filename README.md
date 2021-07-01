@@ -16,5 +16,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nazsakib)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=nazsakib)  
-
-![Profile views](https://gpvc.arturio.dev/nazsakib)  
