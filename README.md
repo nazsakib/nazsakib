@@ -1,8 +1,20 @@
-### Hello world! 👋
 
 
-- 🌱 I’m currently learning MERN stack development
-- 📫 How to reach me:  [LinkedIN - @sakibmdnazmush](https://www.linkedin.com/in/sakibmdnazmush)
-- ⚡ Fun fact: I want the Batman's superpower.
+### Hello World 🌏
+
+- 🌱 I’m currently learning MERN stack development 
+- ⚡ Fun fact: I want the Batman's superpower. 
 
 
+## How to reach me: 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nazsakib)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sakibmdnazmush/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/@___sakibs/)  
+
+## Languages:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nazsakib)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=nazsakib)  
+
+![Profile views](https://gpvc.arturio.dev/nazsakib)  
