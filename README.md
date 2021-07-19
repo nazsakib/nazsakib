@@ -6,7 +6,7 @@
 
 
 <p align='center'>
-  A Frontend Web developer from Mymensingh, Bangladesh.
+  A Frontend Web Developer from Mymensingh, Bangladesh.
 </p>
 
 
