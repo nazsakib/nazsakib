@@ -28,8 +28,7 @@
 
 
 <p align='center'>
-  "You have to go wholeheartedly into anything in order to achieve anything worth having." <br>
-  -Frank Llyod Wright
+  <a href="#"><img src="https://github-readme-quotes.herokuapp.com/quote"/>
 </p>
 
 
