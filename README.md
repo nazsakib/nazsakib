@@ -27,8 +27,6 @@
 </p>
 
 
-<p align='center'>
-  <a href="#"><img src="https://github-readme-quotes.herokuapp.com/quote"/>
-</p>
+
 
 
