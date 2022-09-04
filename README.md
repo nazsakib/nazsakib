@@ -6,7 +6,7 @@
 
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/aEwLTJvYxwo1L09oyP/giphy.gif" width="200"/>
 </div>
 <div class="social-sites" align="center">
   <p align="center">
@@ -52,7 +52,6 @@
 
 <br>
 <hr>
-<p align="center">Thank You!</p>
 
 
 
