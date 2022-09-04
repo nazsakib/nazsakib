@@ -50,7 +50,9 @@
     </a>
 </p>
 
-
+<br>
+<hr>
+<p align="center">Thank You!</p>
 
 
 
