@@ -66,6 +66,8 @@
 
 <br>
 <hr>
-
+<div align="center">
+  <img src="https://github-readme-quotes.herokuapp.com/quote?theme=tokyonight&animation=grow_out_in&layout=churchill&font=default" />
+</div>
 
 
