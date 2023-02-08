@@ -1,6 +1,6 @@
 
 <h1 align='center'>
-  Hello World 👋 <br>
+  Hello 👋 <br>
   I'm Sakib :man:
 </h1>
 
