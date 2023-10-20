@@ -21,6 +21,7 @@
 <div align="center">
 <!--   <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=nazsakib&show_icons=true&locale=en" alt="nazsakib" /></p> -->
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nazsakib&" alt="nazsakib" /></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazsakib&size_weight=0.5&count_weight=0.5" /></p>
 </div>
 <br>
 <hr>
@@ -32,7 +33,7 @@
   <a href="https://www.behance.net/nazsakib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="nazsakib" height="30" width="40" /></a>
   </p>
   <hr>
-  
+
   [![An image of @nazsakib's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nazsakib)](https://holopin.io/@nazsakib)
 
 
