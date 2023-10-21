@@ -1,14 +1,8 @@
 
-<h1 align='center'>
-  Hello 👋 <br>
-  I'm Sakib :man:
+<h1>
+  Hey 👋 <br>
+  Sakib here :man:
 </h1>
-
-
-<div id="header" align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWE1eG13bW82bXY1OTRjcXFyejY0MGRrMXpvNzVsMGlla21tdWJscSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kl5ctZSctCbE4/giphy.gif" width="250"/>
-</div>
-
 
   ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/nazsakib) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sakibmdnazmush/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@sakibnazmush) 
