@@ -23,8 +23,4 @@
 ## :envelope_with_arrow: Any Kind Of Query
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mailito:%3Asakibsnaz@gmail.com/)
 
-### :arrow_down: Hacktober Fest 2023 Badges
-  [![An image of @nazsakib's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nazsakib)](https://holopin.io/@nazsakib)
-
-
 
