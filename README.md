@@ -15,15 +15,15 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-## 🌐 Profiles:
+### 🌐 Profiles:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sakibmdnazmush/)
 [![LinkedIn](https://img.shields.io/badge/WordPress-0077B5?style=for-the-badge&logo=wordpress&logoColor=white)](https://profiles.wordpress.org/sakibsnaz/)
 <!-- [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/1069887770664910888) -->
 
-## :notebook: Notes:
+### :notebook: Notes:
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sakibnazmush) [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/nazsakib)
 
-## :envelope_with_arrow: Any Kind Of Query
+### :envelope_with_arrow: Any Kind Of Query
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mailito:%3Asakibsnaz@gmail.com/)
 
 
