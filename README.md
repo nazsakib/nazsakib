@@ -15,8 +15,9 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-## 🌐 Socials:
+## 🌐 Profiles:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sakibmdnazmush/)
+[![LinkedIn](https://img.shields.io/badge/WordPress-0077B5?style=for-the-badge&logo=wordpress&logoColor=white)](https://profiles.wordpress.org/sakibsnaz/)
 <!-- [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/1069887770664910888) -->
 
 ## :notebook: Notes:
