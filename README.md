@@ -17,6 +17,7 @@
 
 ### Profiles:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-12100E?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sakibmdnazmush/)
+[![WordPress](https://img.shields.io/badge/WordPress-12100E?style=for-the-badge&logo=wordpress&logoColor=white)](https://profiles.wordpress.org/sakibsnaz/)
 <!-- [![LinkedIn](https://img.shields.io/badge/WordPress-0077B5?style=for-the-badge&logo=wordpress&logoColor=white)](https://profiles.wordpress.org/sakibsnaz/) -->
 <!-- [![Discord](https://img.shields.io/badge/Discord-0077B5?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/1069887770664910888) -->
 
