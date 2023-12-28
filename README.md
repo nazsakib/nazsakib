@@ -1,6 +1,6 @@
 
 <h1 align="center">
- A glitch in th Matrix.
+ A Glitch in the Matrix
 </h1>
 
 <!-- # 💻 Tech Stack: -->
