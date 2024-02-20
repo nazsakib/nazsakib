@@ -32,5 +32,5 @@ jobs:
           plugin_topics_limit: 0
           plugin_wakatime: yes
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
-          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+          plugin_wakatime_token: ${{ secrets.waka_a63a4d10-4407-4803-8354-16353f6078e1 }}
 
