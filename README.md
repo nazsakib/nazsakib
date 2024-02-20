@@ -17,7 +17,9 @@
 <!-- ### Any Kind Of Query:
 [![Gmail](https://img.shields.io/badge/Gmail-12100E?style=for-the-badge&logo=gmail&logoColor=white)](https://mailito:%3Asakibsnaz@gmail.com/) -->
 
-<p align="center"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
+<!-- <p align="center"><img src="/github-metrics.svg" alt="Metrics" width="400"></p> -->
+
+![Metrics](https://raw.githubusercontent.com/nazsakib/nazsakib/master/github-metrics.svg)
 
 <!-- # 📊 Stats: -->
 <!-- <div align="center">
