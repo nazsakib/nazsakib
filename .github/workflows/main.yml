@@ -18,13 +18,17 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
 
-
-name: Succinct report
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.plugin.pagespeed.svg
-  token: NOT_NEEDED
-  base: ""
-  plugin_pagespeed: yes
-  plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
-  plugin_pagespeed_url: https://lecoq.io
+          # Options
+          user: nazsakib
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Dhaka
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+          plugin_languages: yes
+          plugin_pagespeed: yes
+          plugin_pagespeed_screenshot: yes
+          plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
+          plugin_topics: yes
+          plugin_topics_mode: mastered
+          plugin_topics_limit: 0
